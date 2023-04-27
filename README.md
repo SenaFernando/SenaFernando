@@ -15,8 +15,10 @@
   <li><strong>Meus trabalhos da faculdade 📝</strong>
   <li><strong>Alguns códigos aleatórios 🎲</strong>
 <p>Fique à vontade para explorar meus projetos e entrar em contato caso tenha alguma dúvida ou sugestão!</p>
+<br>
 
 
+    
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank">  <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> 
