@@ -1,4 +1,4 @@
-### Análise e Desenvilvimento de Sistemas 💻
+### Análise e Desenvolvimento de Sistemas 💻
 
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank">  <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
