@@ -1,4 +1,21 @@
-### Análise e Desenvolvimento de Sistemas 💻
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+   
+  </head>
+  <body>
+    <h1>👨‍💻Sobre mim👨‍💻</h1>
+    <p>Olá, meu nome é <strong>Fernando.</strong> Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no Centro de Ensino Unificado de Brasília (UniCEUB) 
+    
+    
+<p>No meu GitHub, você encontrará:</p>
+<ul>
+  <li><strong>Projetos de FrontEnd 💻</strong>
+  <li><strong>Meus trabalhos da faculdade 📝</strong>
+  <li><strong>Alguns códigos aleatórios 🎲</strong>
+<p>Fique à vontade para explorar meus projetos e entrar em contato caso tenha alguma dúvida ou sugestão!</p>
+
 
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank">  <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
