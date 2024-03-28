@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1>👨‍💻Sobre mim👨‍💻</h1>
-    <p>Olá, meu nome é <strong>Fernando. 
+    <p>Olá, meu nome é <strong>Fernando! 
     
     
 <p>No meu GitHub, você encontrará:</p>
