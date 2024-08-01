@@ -32,7 +32,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
 
 
-
+<a href = "mailto:senafernando818@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernandosena0b976824a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </a> </p>
 <br />
@@ -42,6 +43,5 @@
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenaFernando&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> 
  </a>
 </div>
-
 [![JubayerRiyad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SenaFernando&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/SenaFernando/github-readme-activity-graph) 
 
