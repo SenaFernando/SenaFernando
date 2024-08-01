@@ -43,5 +43,5 @@
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenaFernando&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> 
  </a>
 </div>
-[![JubayerRiyad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SenaFernando&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/SenaFernando/github-readme-activity-graph) 
+
 
