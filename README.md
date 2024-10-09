@@ -11,7 +11,7 @@
     
 <p>No meu GitHub, você encontrará:</p>
 <ul>
-  <li><strong>Projetos de FrontEnd 💻</strong>
+  <li><strong>Projetos de Engenharia de Dados 💻</strong>
   <li><strong>Meus trabalhos da faculdade 📝</strong>
   <li><strong>Alguns códigos aleatórios 🎲</strong>
 <p>Fique à vontade para explorar meus projetos e entrar em contato caso tenha alguma dúvida ou sugestão!</p>
